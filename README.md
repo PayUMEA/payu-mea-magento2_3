@@ -1,6 +1,6 @@
 # PayU MEA Magento 2.3 extension #
 
-This guide details how to install the PayU MEA Magento v2.0+ / v2.1+ extension
+This guide details how to install the PayU MEA Magento v2.3 extension
 
 ## Prerequisites
 * Magento 2.3 installed application
