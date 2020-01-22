@@ -19,7 +19,7 @@ The extension requires the following extension in order to work properly:
 2) Unpack the downloaded archive
 3) Copy the files from "payu-mea-magento2-master" folder to your Magento 2 entity to folder \app\code\PayU\EasyPlus\. If such directory/path doesn't exist you will need to create it
 
-After copyting the files you need to enable the extension by excuting the following command:
+After copying the files you need to enable the extension by excuting the following command:
 ```bash
 bin/magento module:enable --clear-static-content PayU_EasyPlus
 bin/magento setup:upgrade
