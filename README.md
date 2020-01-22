@@ -29,7 +29,3 @@ bin/magento cache:clean
 ## Configuration
 To configure the extension, you have to navigate to **Stores > Configuration > Sales > Payment Methods** and find PayU 
 extension listed among other payment methods
-
-### Who do I talk to if I run into any issue? ###
-
-* Just send an email to **support@payu.co.za** or open an issue using the issue tracker
